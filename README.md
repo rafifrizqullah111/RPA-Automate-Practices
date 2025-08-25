@@ -14,7 +14,7 @@ It is not a production-ready project, but rather a space to keep track of my pro
 # 📂 Repository Structure
 ```bash
 RPA-PAD-Practices
-├── 📁 Chapter-01-File_and_Excel_Automation
+├── 📁 Chapter-01-Excel_Automation
 ├── 📁 Chapter-02-Email_Automation
 ├── 📁 Chapter-03-PDF_and_Document_Processing
 ├── 📁 Chapter-04-Web_and_UI_Automation
