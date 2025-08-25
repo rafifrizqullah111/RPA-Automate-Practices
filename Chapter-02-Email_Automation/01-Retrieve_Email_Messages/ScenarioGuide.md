@@ -1,4 +1,4 @@
-## 🔹 Case 02: Retrieve Email Messages
+## 🔹 Case 01: Retrieve Email Messages
 
 ### 🎯 Objective
 Automate the process of **retrieving emails from Outlook**, optionally with filters (by folder, sender, subject, or time).  
