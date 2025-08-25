@@ -14,18 +14,17 @@ It is not a production-ready project, but rather a space to keep track of my pro
 # 📂 Repository Structure
 ```bash
 RPA-PAD-Practices
-├── 📁 Chapter-01-Basics_and_Fundamentals
-├── 📁 Chapter-02-File_and_Excel_Automation
-├── 📁 Chapter-03-Email_Automation
-├── 📁 Chapter-04-PDF_and_Document_Processing
-├── 📁 Chapter-05-Web_and_UI_Automation
-├── 📁 Chapter-06-Database_Integration
-├── 📁 Chapter-07-Cloud_and_API_Integration
-├── 📁 Chapter-08-Error_Handling_and_Debugging
-├── 📁 Chapter-09-Subflows_and_Libraries
-├── 📁 Chapter-10-Self-Healing_and_Resilient_Flows
-├── 📁 Chapter-11-Intelligent_Document_Processing
-├── 📁 Chapter-12-Capstone_Projects
+├── 📁 Chapter-01-File_and_Excel_Automation
+├── 📁 Chapter-02-Email_Automation
+├── 📁 Chapter-03-PDF_and_Document_Processing
+├── 📁 Chapter-04-Web_and_UI_Automation
+├── 📁 Chapter-05-Database_Integration
+├── 📁 Chapter-06-Cloud_and_API_Integration
+├── 📁 Chapter-07-Error_Handling_and_Debugging
+├── 📁 Chapter-08-Subflows_and_Libraries
+├── 📁 Chapter-09-Self-Healing_and_Resilient_Flows
+├── 📁 Chapter-10-Intelligent_Document_Processing
+├── 📁 Chapter-11-Capstone_Projects
 └── README.md
 ```
 
