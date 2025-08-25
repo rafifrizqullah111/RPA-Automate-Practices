@@ -15,6 +15,16 @@ It is not a production-ready project, but rather a space to keep track of my pro
 ```bash
 RPA-PAD-Practices
 ├── 📁 Chapter-01-Excel_Automation
+│   ├── 📁 01-Reading_and_Writing
+│   ├── 📁 02-Filtering_Data
+│   ├── 📁 03-Sorting_Data
+│   ├── 📁 04-Mathematical_Operations
+│   ├── 📁 05-Conditional_Formatting
+│   ├── 📁 06-Lookup_Operations
+│   ├── 📁 07-Pivot_Table_Automation
+│   ├── 📁 08-Charts_Automation
+│   ├── 📁 09-Data_Cleaning
+│   ├── 📁 10-Report_Generation
 ├── 📁 Chapter-02-Email_Automation
 ├── 📁 Chapter-03-PDF_and_Document_Processing
 ├── 📁 Chapter-04-Web_and_UI_Automation
