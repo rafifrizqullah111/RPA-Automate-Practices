@@ -54,7 +54,7 @@ RPA-PAD-Practices
 │   ├── 📁 04-Update_to_Database
 │   ├── 📁 05-Delete_from_Database
 ├── 📁 Chapter-07-Subflows_and_Libraries
-├── 📁 Chapter-08-Self-Healing_and_Resilient_Flows
+├── 📁 Chapter-08-Robotic_Enterprise_Framework
 ├── 📁 Chapter-09-Intelligent_Document_Processing
 ├── 📁 Chapter-10-Capstone_Projects
 └── README.md
