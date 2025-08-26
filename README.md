@@ -48,6 +48,11 @@ RPA-PAD-Practices
 │   ├── 📁 02-Invoke_SOAP_Web_Service
 │   ├── 📁 03-Invoke_REST_Web_Service
 ├── 📁 Chapter-06-Database_Integration
+│   ├── 📁 01-Connect_to_Database
+│   ├── 📁 02-Retrieve_from_Database
+│   ├── 📁 03-Insert_to_Database
+│   ├── 📁 04-Update_to_Database
+│   ├── 📁 05-Delete_from_Database
 ├── 📁 Chapter-07-Subflows_and_Libraries
 ├── 📁 Chapter-08-Self-Healing_and_Resilient_Flows
 ├── 📁 Chapter-09-Intelligent_Document_Processing
