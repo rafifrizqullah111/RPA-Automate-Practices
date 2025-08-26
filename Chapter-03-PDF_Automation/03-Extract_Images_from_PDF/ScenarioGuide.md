@@ -48,7 +48,7 @@ Close Excel
 ---
 
 ## ✅ Expected Output
-- All images from Brochure.pdf are saved in C:\PDFs\ExtractedImages\.
+- All images from Brochure.pdf are saved in `C:\PDFs\ExtractedImages\`.
 - An Excel file ImageCatalog.xlsx contains the list of saved image file paths:
 
 | Image Path                         |
