@@ -30,9 +30,8 @@ RPA-PAD-Practices
 │   ├── 📁 02-Send_Emails_with_Attachments
 │   ├── 📁 03-Save_Email_Attachments
 │   ├── 📁 04-Auto_Reply_or_Forward_Emails
-│   ├── 📁 05-Monitor_Email_Inbox
-│   ├── 📁 06-Email_Based_Approval_or_Notifications
-│   ├── 📁 07-Organize_and_Move_Emails
+│   ├── 📁 05-Organize_and_Move_Emails
+│   ├── 📁 06-Save_Outlook_Email_Messages
 ├── 📁 Chapter-03-PDF_and_Document_Processing
 │   ├── 📁 01-Read_PDF_Text
 │   ├── 📁 02-Extract_PDF_Data_Table
