@@ -43,13 +43,15 @@ RPA-PAD-Practices
 │   ├── 📁 02-Extract_Web_Page
 │   ├── 📁 03-Filling_the_Form
 │   ├── 📁 04-Automated_Desktop_App
-├── 📁 Chapter-05-Database_Integration
-├── 📁 Chapter-06-Cloud_and_API_Integration
-├── 📁 Chapter-07-Error_Handling_and_Debugging
-├── 📁 Chapter-08-Subflows_and_Libraries
-├── 📁 Chapter-09-Self-Healing_and_Resilient_Flows
-├── 📁 Chapter-10-Intelligent_Document_Processing
-├── 📁 Chapter-11-Capstone_Projects
+├── 📁 Chapter-05-Rest_API_Integration
+│   ├── 📁 01-Download_File_from_web
+│   ├── 📁 02-Invoke_SOAP_Web_Service
+│   ├── 📁 03-Invoke_REST_Web_Service
+├── 📁 Chapter-06-Database_Integration
+├── 📁 Chapter-07-Subflows_and_Libraries
+├── 📁 Chapter-08-Self-Healing_and_Resilient_Flows
+├── 📁 Chapter-09-Intelligent_Document_Processing
+├── 📁 Chapter-10-Capstone_Projects
 └── README.md
 ```
 
