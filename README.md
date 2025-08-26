@@ -39,6 +39,10 @@ RPA-PAD-Practices
 │   ├── 📁 04-Extract_Specific_Pages_from_PDF
 │   ├── 📁 05-Merge_PDF_Files
 ├── 📁 Chapter-04-Web_and_UI_Automation
+│   ├── 📁 01-Login_to_Website
+│   ├── 📁 02-Extract_Web_Page
+│   ├── 📁 03-Filling_the_Form
+│   ├── 📁 04-Automated_Desktop_App
 ├── 📁 Chapter-05-Database_Integration
 ├── 📁 Chapter-06-Cloud_and_API_Integration
 ├── 📁 Chapter-07-Error_Handling_and_Debugging
