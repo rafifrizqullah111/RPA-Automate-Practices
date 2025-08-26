@@ -33,12 +33,11 @@ RPA-PAD-Practices
 │   ├── 📁 05-Organize_and_Move_Emails
 │   ├── 📁 06-Save_Outlook_Email_Messages
 ├── 📁 Chapter-03-PDF_and_Document_Processing
-│   ├── 📁 01-Read_PDF_Text
-│   ├── 📁 02-Extract_PDF_Data_Table
-│   ├── 📁 03-Merge_and_Split_PDF
-│   ├── 📁 04-Export_PDF_to_Excel_or_Word
-│   ├── 📁 05-PDF_Form_Filling_or_Editing
-│   ├── 📁 06-Secure_or_Protect_PDF
+│   ├── 📁 01-Extract_Text_from_PDF
+│   ├── 📁 02-Extract_Tables_from PDF
+│   ├── 📁 03-Extract_Images_from PDF
+│   ├── 📁 04-Extract_Specific_Pages_from_PDF
+│   ├── 📁 05-Merge_PDF_Files
 ├── 📁 Chapter-04-Web_and_UI_Automation
 ├── 📁 Chapter-05-Database_Integration
 ├── 📁 Chapter-06-Cloud_and_API_Integration
