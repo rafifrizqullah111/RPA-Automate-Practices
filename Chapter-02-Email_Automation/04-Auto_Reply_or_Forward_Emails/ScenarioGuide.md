@@ -70,6 +70,6 @@ Close Outlook (%OutlookInstance%)
 
 ## ✅ Expected Output
 - The bot retrieves the 5 most recent unread emails.
-- If subject contains "Request", it replies automatically with a predefined template.
+- If subject contains `"Request"`, it replies automatically with a predefined template.
 - If not, the email is forwarded to a specified recipient.
 - Outlook session is closed at the end.
