@@ -60,6 +60,6 @@ Close Outlook (%OutlookInstance%)
 
 ## ✅ Expected Output
 - The bot retrieves the 5 most recent emails from Inbox.
-- Downloads all attachments and saves them into C:\Attachments\.
+- Downloads all attachments and saves them into `C:\Attachments\`.
 - Logs the file paths of saved attachments for confirmation.
 - Outlook session is closed at the end.
