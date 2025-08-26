@@ -56,7 +56,8 @@ RPA-PAD-Practices
 ├── 📁 Chapter-07-Subflows_and_Libraries
 ├── 📁 Chapter-08-Robotic_Enterprise_Framework
 ├── 📁 Chapter-09-Intelligent_Document_Processing
-├── 📁 Chapter-10-Capstone_Projects
+├── 📁 Chapter-10-Machine_Management
+├── 📁 Chapter-11-Capstone_Projects
 └── README.md
 ```
 
