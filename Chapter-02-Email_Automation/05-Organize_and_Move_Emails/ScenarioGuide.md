@@ -61,7 +61,7 @@ Close Outlook (%OutlookInstance%)
 
 ## ✅ Expected Output
 - The bot retrieves the 10 latest emails from Inbox.
-- Emails with "Invoice" in subject → moved to Invoices folder.
-- Emails with "Report" in subject → moved to Reports folder.
-- All other emails → moved to General folder.
+- Emails with `"Invoice"` in subject → moved to Invoices folder.
+- Emails with `"Report"` in subject → moved to Reports folder.
+- All other emails → moved to `General` folder.
 - Outlook session is closed at the end.
