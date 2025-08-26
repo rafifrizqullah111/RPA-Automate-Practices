@@ -1,4 +1,4 @@
-# 📘 Chapter 07 – Cloud and API Integration
+# 📘 Cloud and API Integration (PAD)
 
 This chapter focuses on integrating Power Automate Desktop with web services and cloud data sources using the HTTP actions available in PAD.  
 The hands-on exercises cover file downloads, SOAP services, and REST/other web services.
