@@ -1,4 +1,4 @@
-## 🔹 Case 03: Send Email Message
+## 🔹 Case 02: Send Email Message
 
 ### 🎯 Objective
 Automate the process of **sending email messages via Outlook**, including subject, body, recipients, and optional attachments.
