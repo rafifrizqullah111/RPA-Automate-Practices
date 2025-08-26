@@ -54,5 +54,5 @@ Close Outlook (%OutlookInstance%)
 
 ## ✅ Expected Output
 - The bot retrieves the 10 most recent unread emails from Inbox.
-- Logs sender, subject, and received time into console/log file.
+- Logs sender, subject, and received time into `console/log` file.
 - Outlook session is closed at the end.
