@@ -49,6 +49,6 @@ Close Outlook (%OutlookInstance%)
 
 ## ✅ Expected Output
 - Outlook sends an email to test.receiver@company.com.
-- Email subject: "Monthly Sales Report".
+- Email subject: `"Monthly Sales Report"`.
 - Email body includes the provided text.
-- Excel file Sales_July.xlsx is attached.
+- Excel file `Sales_July.xlsx` is attached.
