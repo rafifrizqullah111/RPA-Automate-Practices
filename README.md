@@ -57,6 +57,11 @@ RPA-PAD-Practices
 │   ├── 📁 01-Simple_RE_Framework
 │   ├── 📁 02-Advanced_RE_Framework
 ├── 📁 Chapter-08-Intelligent_Document_Processing
+│   ├── 📁 01-Extract_Data_from_Template_Based
+│   ├── 📁 02-Process_Semi_Structured_Data
+│   ├── 📁 03-Validate_Extracted_Data
+│   ├── 📁 04-Automate_Document_Classification
+│   ├── 📁 05-End_to_End_IDP_Workflow
 ├── 📁 Chapter-09-Machine_Management
 ├── 📁 Chapter-10-Capstone_Projects
 └── README.md
