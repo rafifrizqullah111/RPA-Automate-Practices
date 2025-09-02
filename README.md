@@ -63,6 +63,9 @@ RPA-PAD-Practices
 │   ├── 📁 04-Automate_Document_Classification
 │   ├── 📁 05-End_to_End_IDP_Workflow
 ├── 📁 Chapter-09-Machine_Management
+│   ├── 📁 01-Unattended_Automation
+│   ├── 📁 02-Manage_Concurrent_Processes
+│   ├── 📁 03-Logging_and_Monitoring
 ├── 📁 Chapter-10-Capstone_Projects
 └── README.md
 ```
