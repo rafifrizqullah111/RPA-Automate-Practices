@@ -54,6 +54,8 @@ RPA-PAD-Practices
 │   ├── 📁 04-Update_to_Database
 │   ├── 📁 05-Delete_from_Database
 ├── 📁 Chapter-07-Robotic_Enterprise_Framework
+│   ├── 📁 01-Simple_RE_Framework
+│   ├── 📁 02-Advanced_RE_Framework
 ├── 📁 Chapter-08-Intelligent_Document_Processing
 ├── 📁 Chapter-09-Machine_Management
 ├── 📁 Chapter-10-Capstone_Projects
