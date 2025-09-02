@@ -31,22 +31,6 @@ The cases are designed to cover machine resource usage, scheduling, monitoring, 
   - Build a simple monitoring dashboard (Excel pivot/Power BI).  
 - **Skills Covered:** Logging, monitoring, data visualization.  
 
-### 04. Error Handling and Recovery
-- **Objective:** Design PAD flows with robust error management.  
-- **Hands-on Tasks:**  
-  - Add Try-Catch blocks to capture runtime exceptions.  
-  - Implement retry logic for transient errors.  
-  - Send notification (email/Teams) upon failure.  
-- **Skills Covered:** Exception handling, retry policies, notification integration.  
-
-### 05. Multi-Machine Orchestration (Advanced)
-- **Objective:** Distribute workloads across multiple machines.  
-- **Hands-on Tasks:**  
-  - Configure multiple machines in Power Automate.  
-  - Assign jobs dynamically to available machines.  
-  - Track execution status across environments.  
-- **Skills Covered:** Orchestration, scaling, environment management.  
-
 ---
 
 ## 🎯 Goal
