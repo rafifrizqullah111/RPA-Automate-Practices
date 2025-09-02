@@ -1,4 +1,4 @@
-## 🔹 Case 01: Build a Simple RE Framework Skeleton
+## 🔹 Case 01: Build a Simple RE Framework
 
 ### 🎯 Objective
 Create a **lightweight Robotic Enterprise (RE) Framework skeleton** in Power Automate Desktop, focusing on structuring automation into clear stages (`Init`, `Process Transaction`, `End Process`).  
