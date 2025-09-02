@@ -1,14 +1,14 @@
 # 📘 Machine Management
 
 This chapter focuses on managing and orchestrating automations in Power Automate Desktop.  
-The cases are designed to cover machine resource usage, scheduling, monitoring, logging, and error handling to ensure automations run efficiently and reliably.
+The cases are designed to cover machine resource usage, scheduling, monitoring, and logging to ensure automations run efficiently and reliably.
 
 ---
 
 ## 📂 Cases Overview
 
-### 01. Schedule Automation on a Local Machine
-- **Objective:** Configure and trigger PAD flows automatically at specific times.  
+### 01. Unattended Automation on a Local Machine
+- **Objective:** Configure and trigger PAD flows automatically at specific times or trigger.  
 - **Hands-on Tasks:**  
   - Create a simple PAD flow.  
   - Schedule execution via Power Automate or Windows Task Scheduler.  
